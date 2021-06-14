@@ -4,18 +4,18 @@ I am a current student at Coder Academy undertaking a full-stack web-development
 
 I am a creative personality with a passion for the arts, learning and research. I love coffee, reading, playing games and watching film, series etc.
 
-I currently yield the powers of: HTML, CSS, Git, Ruby, Rails, JavaScript, APIs and React. I plan on expanding my skills to include: MongoDB, Node.js, Mongoose, Express.js and Redux.
+I currently yield the powers of: HTML, CSS, Git, Ruby, Rails, JavaScript, APIs and React. I plan on expanding my skills to include: MongoDB and Node.js.
 <br></br>
 <p align="center">
-<img src="docs/git.png" alt="GIT">
-<img src="docs/html.png" alt="HTML">
-<img src="docs/javascript.png" alt="JAVASCRIPT">
-<img src="docs/css.png" alt="CSS">
-<img src="docs/PostgreSQL_logo.png" alt="POSTGRESQL">
-<img src="docs/react.png" alt="REACT">
-<img src="docs/bootstrap.png" alt="BOOTSTRAP">
-<img src="docs/rails.png" alt="RAILS">
-<img src="docs/ruby.png" alt="RUBY">
+    <img src="docs/git.png" alt="GIT">
+    <img src="docs/html.png" alt="HTML">
+    <img src="docs/javascript.png" alt="JAVASCRIPT">
+    <img src="docs/css.png" alt="CSS">
+    <img src="docs/PostgreSQL_logo.png" alt="POSTGRESQL">
+    <img src="docs/react.png" alt="REACT">
+    <img src="docs/bootstrap.png" alt="BOOTSTRAP">
+    <img src="docs/rails.png" alt="RAILS">
+    <img src="docs/ruby.png" alt="RUBY">
 </p>
   
 <!--
