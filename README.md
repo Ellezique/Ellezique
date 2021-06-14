@@ -8,11 +8,15 @@ I currently yield the powers of: HTML, CSS, Git, Ruby, Rails, JavaScript, APIs a
 <br></br>
 <p align="center">
     <img src="docs/git.png" alt="GIT">
+    <img src="docs/postman.jpg" alt="POSTMAN">
     <img src="docs/html.png" alt="HTML">
     <img src="docs/javascript.png" alt="JAVASCRIPT">
     <img src="docs/css.png" alt="CSS">
     <img src="docs/PostgreSQL_logo.png" alt="POSTGRESQL">
+    <img src="docs/vs.png" alt="VS CODE">
+    <img src="docs/netlify.png" alt="NETLIFY">
     <img src="docs/react.png" alt="REACT">
+    <img src="docs/heroku.png" alt="HEROKU">
     <img src="docs/bootstrap.png" alt="BOOTSTRAP">
     <img src="docs/rails.png" alt="RAILS">
     <img src="docs/ruby.png" alt="RUBY">
