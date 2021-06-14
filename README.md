@@ -1,4 +1,11 @@
-### Hi there 👋
+![Banner](banner.png)
+
+I am a current student at Coder Academy undertaking a full-stack web-development bootcamp, seeking to gain industry experience following course completion in August 2021.
+
+I am a creative personality with a passion for the arts, learning and reasearch. I love coffee, reading, playing games and watching film, series etc.
+
+I currently yield the powers of: HTML, CSS, Git, Ruby, Rails, JavaScript, APIs and React. I plan on expanding my skills to include: MongoDB, Node.js, Mongoose, Express.js and Redux.
+
 
 <!--
 **Ellezique/Ellezique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
