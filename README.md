@@ -4,7 +4,7 @@ I am a current student at Coder Academy undertaking a full-stack web-development
 
 I am a creative personality with a passion for the arts, learning and research. I love coffee, reading, playing games and watching film, series etc.
 
-I currently yield the powers of: HTML, CSS, Git, Ruby, Rails, JavaScript, APIs and React. I plan on expanding my skills to include: MongoDB and Node.js.
+I currently yield the powers of: HTML, CSS, Git, Ruby, Rails, JavaScript, APIs and React. 
 <br></br>
 <p align="center">
     <img src="docs/git.png" alt="GIT">
@@ -22,13 +22,15 @@ I currently yield the powers of: HTML, CSS, Git, Ruby, Rails, JavaScript, APIs a
     <img src="docs/ruby.png" alt="RUBY">
 </p>
 <br>
-Feel free to have a look at some of my projects.  
+I plan on expanding my skills to include: MongoDB and Node.js.
+<br>
+Feel free to have a look at some of my projects:  
 
 
-<a href="https://github.com/Ellezique/Arcade-Secretary-as-deployed" rel="Arcade Secretary" width="100%" ><p align="center">![Arcade Secretary](docs/projects/arcadesecretary.PNG)</a></p>
-<a href="https://github.com/Ellezique/Artize-/" rel="Artize" width="100%"><p align="center">![Artize](docs/projects/artize.PNG)</a></p>
-<a href="https://github.com/Ellezique/portfolio-website/" rel="Portfolio" width="100%"><p align="center">![Portfolio](docs/projects/portfolio.PNG)</a></p>
-<a href="https://github.com/Ellezique/ruby-riddles-game" rel="Riddles" width="100%"><p align="center">![Riddles](docs/projects/riddles.PNG)</a></p>
+<a href="https://github.com/Ellezique/Arcade-Secretary-as-deployed" target="_blank" rel="Arcade Secretary" width="100%" ><p align="center">![Arcade Secretary](docs/projects/arcadesecretary.PNG)</a></p>
+<a href="https://github.com/Ellezique/Artize-/" target="_blank" rel="Artize" width="100%"><p align="center">![Artize](docs/projects/artize.PNG)</a></p>
+<a href="https://github.com/Ellezique/portfolio-website/" target="_blank" rel="Portfolio" width="100%"><p align="center">![Portfolio](docs/projects/portfolio.PNG)</a></p>
+<a href="https://github.com/Ellezique/ruby-riddles-game" target="_blank" rel="Riddles" width="100%"><p align="center">![Riddles](docs/projects/riddles.PNG)</a></p>
 
 <!--
 **Ellezique/Ellezique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
