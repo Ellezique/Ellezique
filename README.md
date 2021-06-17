@@ -27,10 +27,10 @@ I plan on expanding my skills to include: MongoDB and Node.js.
 Feel free to have a look at some of my projects:  
 
 
-<a href="https://github.com/Ellezique/Arcade-Secretary-as-deployed" target="_blank" rel="Arcade Secretary" target="_blank"width="100%" ><p align="center">![Arcade Secretary](docs/projects/arcadesecretary.PNG)</a></p>
-<a href="https://github.com/Ellezique/Artize-/" target="_blank" rel="Artize" width="100%"><p align="center">![Artize](docs/projects/artize.PNG)</a></p>
-<a href="https://github.com/Ellezique/portfolio-website/" target="_blank" rel="Portfolio" width="100%"><p align="center">![Portfolio](docs/projects/portfolio.PNG)</a></p>
-<a href="https://github.com/Ellezique/ruby-riddles-game" target="_blank" rel="Riddles" width="100%"><p align="center">![Riddles](docs/projects/riddles.PNG)</a></p>
+<a href="https://github.com/Ellezique/Arcade-Secretary-as-deployed" target="_blank" width="100%" ><p align="center">![Arcade Secretary](docs/projects/arcadesecretary.PNG)</a></p>
+<a href="https://github.com/Ellezique/Artize-/" target="_blank" width="100%"><p align="center">![Artize](docs/projects/artize.PNG)</a></p>
+<a href="https://github.com/Ellezique/portfolio-website/" target="_blank" width="100%"><p align="center">![Portfolio](docs/projects/portfolio.PNG)</a></p>
+<a href="https://github.com/Ellezique/ruby-riddles-game" target="_blank" width="100%"><p align="center">![Riddles](docs/projects/riddles.PNG)</a></p>
 
 <!--
 **Ellezique/Ellezique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
