@@ -9,6 +9,7 @@ I currently yield the powers of: HTML, CSS, Git, Ruby, Rails, JavaScript, APIs a
 <p align="center">
     <img src="docs/git.png" alt="GIT">
     <img src="docs/postman.jpg" alt="POSTMAN">
+    <img src="docs/draw_io.png" alt="DRAW_IO">
     <img src="docs/html.png" alt="HTML">
     <img src="docs/javascript.png" alt="JAVASCRIPT">
     <img src="docs/css.png" alt="CSS">
@@ -20,11 +21,18 @@ I currently yield the powers of: HTML, CSS, Git, Ruby, Rails, JavaScript, APIs a
     <img src="docs/bootstrap.png" alt="BOOTSTRAP">
     <img src="docs/rails.png" alt="RAILS">
     <img src="docs/ruby.png" alt="RUBY">
+    <img src="docs/stripe.jpg" alt="stripe">
+    <img src="docs/cloudinary.png" alt="cloudinary">
+    <img src="docs/balsamiq_wireframes.png" alt="BALSAMIQ_WIREFRAMES">
 </p>
 <br></br>
-I plan on expanding my skills to include: MongoDB and Node.js.
+I am practicing MongoDB and Node.js. A project demonstrating these is on my todo list. 
+<p align="center">
+   <img src="docs/node.png" alt="NODEJS">
+   <img src="docs/mongodb.png" alt="MONGODB">
+</p>
 <br></br>
-Feel free to have a look at some of my projects:  
+Feel free to have a look at some of my existing projects:  
 
 
 <a href="https://github.com/Ellezique/Arcade-Secretary-as-deployed" width="100%" ><p align="center">![Arcade Secretary](docs/projects/arcadesecretary.PNG)</a></p>
@@ -33,16 +41,6 @@ Feel free to have a look at some of my projects:
 <a href="https://github.com/Ellezique/ruby-riddles-game" width="100%"><p align="center">![Riddles](docs/projects/riddles.PNG)</a></p>
 
 <!--
-**Ellezique/Ellezique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+To display project linked images in a one row, two column format, generate a table at:
+https://tableconvert.com/
 -->
