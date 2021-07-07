@@ -19,6 +19,7 @@ I currently yield the powers of: HTML, CSS, Git, Ruby, Rails, JavaScript, APIs a
     <img src="docs/react.png" alt="REACT">
     <img src="docs/heroku.png" alt="HEROKU">
     <img src="docs/bootstrap.png" alt="BOOTSTRAP">
+    <img src="docs/sass.png" alt="SASS">
     <img src="docs/rails.png" alt="RAILS">
     <img src="docs/ruby.png" alt="RUBY">
     <img src="docs/stripe.jpg" alt="stripe">
