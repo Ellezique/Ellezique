@@ -14,20 +14,22 @@ I currently yield the powers of: HTML, CSS, Git, Ruby, Rails, JavaScript, APIs a
     <img src="docs/javascript.png" alt="JAVASCRIPT">
     <img src="docs/css.png" alt="CSS">
     <img src="docs/PostgreSQL_logo.png" alt="POSTGRESQL">
+    <img src="docs/rapidapi.png" alt="RAPID API">
     <img src="docs/vs.png" alt="VS CODE">
     <img src="docs/netlify.png" alt="NETLIFY">
     <img src="docs/react.png" alt="REACT">
+    <img src="docs/cloudinary.png" alt="CLOUDINARY">
     <img src="docs/heroku.png" alt="HEROKU">
     <img src="docs/bootstrap.png" alt="BOOTSTRAP">
     <img src="docs/sass.png" alt="SASS">
+    <img src="docs/stripe.jpg" alt="STRIPE">
     <img src="docs/rails.png" alt="RAILS">
     <img src="docs/ruby.png" alt="RUBY">
-    <img src="docs/stripe.jpg" alt="stripe">
-    <img src="docs/cloudinary.png" alt="cloudinary">
     <img src="docs/balsamiq_wireframes.png" alt="BALSAMIQ_WIREFRAMES">
+    <img src="docs/github.png" alt="GITHUB OCTOCAT">
 </p>
 <br></br>
-I am practicing MongoDB and Node.js. A project demonstrating these is on my todo list. 
+I am practicing MongoDB and Node.js. A project demonstrating these is on my todo list. My to do list also includes setting up a virtual machine to play around on Linux (I am currently coding on a gaming pc with windows os). 
 <p align="center">
    <img src="docs/node.png" alt="NODEJS">
    <img src="docs/mongodb.png" alt="MONGODB">
