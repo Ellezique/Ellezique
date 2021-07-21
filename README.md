@@ -29,11 +29,15 @@ I currently yield the powers of: HTML, CSS, Git, Ruby, Rails, JavaScript, APIs a
     <img src="docs/github.png" alt="GITHUB OCTOCAT">
 </p>
 <br></br>
-I am practicing MongoDB and Node.js. A project demonstrating these is on my todo list. My to do list also includes setting up a virtual machine to play around on Linux (I am currently coding on a gaming pc with windows os). 
+I am currently working on a full stack app (React & Rails). Thereafter, I will continue working on MongoDB and Node.js: 
+
 <p align="center">
    <img src="docs/node.png" alt="NODEJS">
    <img src="docs/mongodb.png" alt="MONGODB">
 </p>
+
+I am currently coding on an Aftershock gaming laptop with Windows OS, using Ubuntu terminal and VS Code. I have recently set up a virtual machine (Oracle VM VirtualBox and Debian OS) and will explore this further in future. 
+
 <br></br>
 Feel free to have a look at some of my existing projects:  
 
