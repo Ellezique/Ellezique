@@ -1,10 +1,10 @@
 ![Banner](docs/banner.png)
 
-I am a current student at Coder Academy undertaking a full-stack web-development bootcamp, seeking to gain industry experience following course completion in August 2021.
+I completed a full-stack web-development bootcamp in 2021 and am seeking to gain industry experience as an emerging developer.
 
-I am a creative personality with a passion for the arts, learning and research. I love coffee, reading, playing games and watching film, series etc.
+I am a creative personality with a passion for the arts, learning and research. 
 
-I currently yield the powers of: HTML, CSS, Git, Ruby, Rails, JavaScript, APIs and React. 
+I have worked with HTML, CSS, Git, Ruby, Rails, JavaScript, APIs and React. 
 <br></br>
 <p align="center">
     <img src="docs/git.png" alt="GIT">
@@ -27,21 +27,21 @@ I currently yield the powers of: HTML, CSS, Git, Ruby, Rails, JavaScript, APIs a
     <img src="docs/ruby.png" alt="RUBY">
     <img src="docs/balsamiq_wireframes.png" alt="BALSAMIQ_WIREFRAMES">
     <img src="docs/github.png" alt="GITHUB OCTOCAT">
+</p>  
+<br></br>
+<p> I am currently learning Python. Thereafter, I would like to build an app using Node and MongoDB.</p>
+<p align="center"> 
+    <img src="docs/python.png" alt="PYTHON">
+    <img src="docs/node.png" alt="NODEJS">
+    <img src="docs/mongodb.png" alt="MONGODB">
 </p>
 <br></br>
-I am currently working on a full stack app (React & Rails). Thereafter, I will continue working on MongoDB and Node.js: 
-
-<p align="center">
-   <img src="docs/node.png" alt="NODEJS">
-   <img src="docs/mongodb.png" alt="MONGODB">
-</p>
-
 I am currently coding on an Aftershock gaming laptop with Windows OS, using Ubuntu terminal and VS Code. I have recently set up a virtual machine (Oracle VM VirtualBox and Debian OS) and will explore this further in future. 
 
 <br></br>
-Feel free to have a look at some of my existing projects:  
+Feel free to have a look at some of my existing projects (please note that there are some movie/series card and chatroom bugs in the current version of AfterCredits):  
 
-
+<a href="https://github.com/Ellezique/Full-Stack-App-PART-A" width="100%" ><p align="center">![AfterCredits](docs/projects/aftercredits.PNG)</a></p>
 <a href="https://github.com/Ellezique/Arcade-Secretary-as-deployed" width="100%" ><p align="center">![Arcade Secretary](docs/projects/arcadesecretary.PNG)</a></p>
 <a href="https://github.com/Ellezique/Artize-/" width="100%"><p align="center">![Artize](docs/projects/artize.PNG)</a></p>
 <a href="https://github.com/Ellezique/portfolio-website/" width="100%"><p align="center">![Portfolio](docs/projects/portfolio.PNG)</a></p>
