@@ -47,6 +47,7 @@ Feel free to have a look at some of my existing projects (please note that there
 <a href="https://github.com/Ellezique/portfolio-website/" width="100%"><p align="center">![Portfolio](docs/projects/portfolio.PNG)</a></p>
 <a href="https://github.com/Ellezique/ruby-riddles-game" width="100%"><p align="center">![Riddles](docs/projects/riddles.PNG)</a></p>
 
+![](https://komarev.com/ghpvc/?username=Ellezique)
 <!--
 To display project linked images in a one row, two column format, generate a table at:
 https://tableconvert.com/
