@@ -36,7 +36,7 @@ I have worked with HTML, CSS, Git, Ruby, Rails, JavaScript, APIs and React.
     <img src="docs/mongodb.png" alt="MONGODB">
 </p>
 <br></br>
-I am currently coding on an Aftershock gaming laptop with Windows OS, using Ubuntu terminal and VS Code. I have recently set up a virtual machine (Oracle VM VirtualBox and Debian OS) and will explore this further in future. 
+I started coding on an Aftershock gaming laptop with Windows OS, using Ubuntu terminal and VS Code. I have set up a virtual machine (Oracle VM VirtualBox and Debian OS) and will explore this further in future. I recently switched to a Linode server with remote SSH so that I can continue coding on VS Code (installation is painfree compared to Windows and Ubuntu). I am currently working with Python, Matplotlib, NumPy, Jupyter Notebooks and MobaXTerm (pop up video output).
 
 <br></br>
 Feel free to have a look at some of my existing projects (please note that there are some movie/series card and chatroom bugs in the current version of AfterCredits):  
