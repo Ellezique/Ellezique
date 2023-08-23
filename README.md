@@ -1,10 +1,11 @@
 ![Banner](docs/banner.png)
 
-I completed a full-stack web-development bootcamp in 2021 and am seeking to gain industry experience as an emerging developer.
+I am a full stack developer with 2 years industry experience.
 
 I am a creative personality with a passion for the arts, learning and research. 
 
-I have worked with HTML, CSS, Git, Ruby, Rails, JavaScript, APIs and React. 
+I work with Git, HTML, CSS, Ruby, Rails, JavaScript, React, Meteor, Angular, Python, MySQL, PostgreSQL, MongoDB, Firestore, Google Cloud Platform, Terraform, Azure Piplines, APIs etc.
+
 <br></br>
 <p align="center">
     <img src="docs/git.png" alt="GIT">
@@ -26,20 +27,14 @@ I have worked with HTML, CSS, Git, Ruby, Rails, JavaScript, APIs and React.
     <img src="docs/rails.png" alt="RAILS">
     <img src="docs/ruby.png" alt="RUBY">
     <img src="docs/balsamiq_wireframes.png" alt="BALSAMIQ_WIREFRAMES">
-    <img src="docs/github.png" alt="GITHUB OCTOCAT">
-</p>  
-<br></br>
-<p> I am currently learning Python. Thereafter, I would like to build an app using Node and MongoDB.</p>
-<p align="center"> 
+    <img src="docs/github.png" alt="GITHUB OCTOCAT"> 
     <img src="docs/python.png" alt="PYTHON">
     <img src="docs/node.png" alt="NODEJS">
     <img src="docs/mongodb.png" alt="MONGODB">
 </p>
 <br></br>
-I started coding on an Aftershock gaming laptop with Windows OS, using Ubuntu terminal and VS Code. I have set up a virtual machine (Oracle VM VirtualBox and Debian OS) and will explore this further in future. I recently switched to a Linode server with remote SSH so that I can continue coding on VS Code (installation is painfree compared to Windows and Ubuntu). I am currently working with Python, Matplotlib, NumPy, Jupyter Notebooks and MobaXTerm (pop up video output).
 
-<br></br>
-Feel free to have a look at some of my existing projects (please note that there are some movie/series card and chatroom bugs in the current version of AfterCredits):  
+Feel free to have a look at some of my existing projects (please refer to my Python and Jupyter notebooks repositories for AI related worksheets and projects):  
 
 <a href="https://github.com/Ellezique/Full-Stack-App-PART-A" width="100%" ><p align="center">![AfterCredits](docs/projects/aftercredits.PNG)</a></p>
 <a href="https://github.com/Ellezique/Arcade-Secretary-as-deployed" width="100%" ><p align="center">![Arcade Secretary](docs/projects/arcadesecretary.PNG)</a></p>
