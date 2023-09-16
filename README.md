@@ -1,10 +1,11 @@
-![Banner](docs/banner.png)
+![Banner](docs/banner3.png)
 
-I am a full stack developer with 2 years industry experience.
+<p align="center">
+  I am a Full Stack Developer. I have a passion for the arts, learning, and research.
+  <br></br>
+  I work with Git, HTML, CSS, Ruby, Rails, JavaScript, React, Meteor, Angular, Python, Typescript, MySQL, PostgreSQL, MongoDB, Firestore, Google Cloud Platform, Terraform, Azure Pipelines, APIs, etc.
+</p>
 
-I am a creative personality with a passion for the arts, learning and research. 
-
-I work with Git, HTML, CSS, Ruby, Rails, JavaScript, React, Meteor, Angular, Python, MySQL, PostgreSQL, MongoDB, Firestore, Google Cloud Platform, Terraform, Azure Piplines, APIs etc.
 
 <br></br>
 <p align="center">
@@ -34,16 +35,45 @@ I work with Git, HTML, CSS, Ruby, Rails, JavaScript, React, Meteor, Angular, Pyt
 </p>
 <br></br>
 
-Feel free to have a look at some of my existing repositories:  
-* [Offworld Gym](https://github.com/Ellezique/offworld-gym/tree/Ellezique_Gizelle)
-* [Python workshop tasks, Week 3, Deep Q Learning](https://github.com/Ellezique/Python-workshop-tasks-W3-Deep-Q-Learning)
-* [Python workshop tasks, Week 2, Reinforcement-Learning](https://github.com/Ellezique/Python-workshop-tasks-W2-Reinforcement-Learning)
-* [Python workshop tasks, Week 1, Algorithms and Matrices](https://github.com/Ellezique/Python-workshop-tasks-W1)
-<a href="https://github.com/Ellezique/Full-Stack-App-PART-A" width="100%" ><p align="center">![AfterCredits](docs/projects/aftercredits.PNG)</a></p>
-<a href="https://github.com/Ellezique/Arcade-Secretary-as-deployed" width="100%" ><p align="center">![Arcade Secretary](docs/projects/arcadesecretary.PNG)</a></p>
-<a href="https://github.com/Ellezique/Artize-/" width="100%"><p align="center">![Artize](docs/projects/artize.PNG)</a></p>
-<a href="https://github.com/Ellezique/portfolio-website/" width="100%"><p align="center">![Portfolio](docs/projects/portfolio.PNG)</a></p>
-<a href="https://github.com/Ellezique/ruby-riddles-game" width="100%"><p align="center">![Riddles](docs/projects/riddles.PNG)</a></p>
+<p align="center">
+  Feel free to have a look at some of my repositories:
+  <br></br>
+  <a href="https://github.com/Ellezique/offworld-gym/tree/Ellezique_Gizelle">Offworld Gym</a><br>
+  <a href="https://github.com/Ellezique/Python-workshop-tasks-W3-Deep-Q-Learning">Python workshop tasks, Week 3, Deep Q Learning</a><br>
+  <a href="https://github.com/Ellezique/Python-workshop-tasks-W2-Reinforcement-Learning">Python workshop tasks, Week 2, Reinforcement-Learning</a><br>
+  <a href="https://github.com/Ellezique/Python-workshop-tasks-W1">Python workshop tasks, Week 1, Algorithms and Matrices</a>
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/Ellezique/Full-Stack-App-PART-A" target="_blank">
+    <img src="docs/projects/aftercredits.PNG" alt="AfterCredits">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Ellezique/Arcade-Secretary-as-deployed" target="_blank">
+    <img src="docs/projects/arcadesecretary.PNG" alt="Arcade Secretary">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Ellezique/Artize-" target="_blank">
+    <img src="docs/projects/artize.PNG" alt="Artize">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Ellezique/portfolio-website/" target="_blank">
+    <img src="docs/projects/portfolio.PNG" alt="Portfolio">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Ellezique/ruby-riddles-game" target="_blank">
+    <img src="docs/projects/riddles.PNG" alt="Riddles">
+  </a>
+</p>
 
 ![](https://komarev.com/ghpvc/?username=Ellezique)
 <!--
